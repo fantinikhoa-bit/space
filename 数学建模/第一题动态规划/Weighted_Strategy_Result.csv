@@ -1,0 +1,4 @@
+Stage,Strategy,Time_Yr,Cost_Trillion,SE_Share_%,Rocket_Share_%,Rocket_Launches
+Camp Phase,SE:0 / R:10,9.132420091324201,10.1,0.0,100.0,66666.66666666667
+Base Phase,SE:1 / R:0,223.46368715083798,31.0,100.0,0.0,0.0
+City Phase,SE:2 / R:0,139.66480446927375,36.25,100.0,0.0,0.0

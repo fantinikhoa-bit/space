@@ -1,0 +1,4 @@
+Best Strategy:
+Camp(3SE+10R) -> Base(3SE+0R) -> City(3SE+0R)
+Total Time: 184.97028699748057
+Total Cost: 82918704044117.66
