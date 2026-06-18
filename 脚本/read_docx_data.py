@@ -28,8 +28,8 @@ def extract_text_from_docx(docx_path):
 
 if __name__ == "__main__":
     import io
-    docx_path = r"d:\Users\HONOR\Desktop\base\数据.docx"
-    output_path = r"d:\Users\HONOR\Desktop\base\data_content.txt"
+    docx_path = r"d:\Users\HONOR\Desktop\base\数据\数据.docx"
+    output_path = r"d:\Users\HONOR\Desktop\base\数据\data_content.txt"
     
     if not os.path.exists(docx_path):
         print(f"File not found: {docx_path}")
